@@ -2,6 +2,9 @@
 Sistema de Cadastro de Vendedores, Gerentes e Cliente
 
 
+
+
+
 Este projeto é um sistema de cadastro que permite gerenciar informações de vendedores, gerentes e clientes utilizando conceitos de Programação Orientada a Objetos (POO) em Java.
 
 
